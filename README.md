@@ -1,10 +1,21 @@
-<h2 align="center">along</h2>
+<h1 align="center">
+	Hi there  👋
+</h1>
+<h1 align="center">Projects</h1>
+<p align="center">Current Projects: </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=along1337&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+- Private sharex uploader
+
+<p align="center">Past Projects: </p>
+
+- Mephisto Spammer
+- Mephisto Booster
+- Talucan Generator
+ 
+
+<h1 align="center">Contact</h1>
+<p align="center"><img align="center" src="https://discord.c99.nl/widget/theme-1/777520013912834058.png">
+<br>
+- <a href="https://discord.gg/london">discord.gg/mephisto</a>
+- <a href="mailto:discord@w5e.tech">discord@w5e.tech</a>
 </p>
-
-<a href="https://discord.com/users/777520013912834058">
-  <p align="center">
-    <img src="https://lanyard-profile-readme.vercel.app/api/777520013912834058" />
-  </p>
